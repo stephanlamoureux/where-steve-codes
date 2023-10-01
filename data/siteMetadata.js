@@ -1,22 +1,22 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Stephan Lamoureux',
+  author: 'Stephan Lamoureux',
+  headerTitle: 'Stephan Lamoureux',
+  description: "Hey, I'm Steve. I love to build (and break) things on the web.",
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  theme: 'dark', // system, dark or light
+  siteUrl: 'https://where-steve-codes.vercel.app',
+  siteRepo: 'https://github.com/stephanlamoureux/where-steve-codes',
   siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  socialBanner: '/static/images/profile/profile2.png',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
+  email: 'sa.lamoureux@gmail.com',
+  github: 'https://github.com/stephanlamoureux',
+  twitter: 'https://twitter.com/sa_lamoureux',
+  // facebook: 'https://facebook.com',
+  // youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/stephanlamoureux',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
