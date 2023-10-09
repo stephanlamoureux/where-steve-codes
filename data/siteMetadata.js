@@ -13,7 +13,7 @@ const siteMetadata = {
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'sa.lamoureux@gmail.com',
   github: 'https://github.com/stephanlamoureux',
-  twitter: 'https://twitter.com/sa_lamoureux',
+  // twitter: 'https://twitter.com/sa_lamoureux',
   // facebook: 'https://facebook.com',
   // youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/stephanlamoureux',
